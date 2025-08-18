@@ -56,7 +56,7 @@ Each object represents one cell in the grid. Row 0 is the headers; rows greater 
 
 ## Data
 
-The datasets are in the `/data` folder. All of the data is the same, with only the structures changing:
+The datasets are in the base folder. All of the data is the same, with only the structures changing:
 
 - `arrayofarray.json`: Data as an array of arrays.
 - `arrayofdelimited.json`: Data as an array of pipe-delimited fields.
