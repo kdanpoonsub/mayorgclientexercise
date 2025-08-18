@@ -4,20 +4,22 @@ Client Coding Exercise for the May Organization. We don't want this to take you 
 The goal of the exercise is to gauge your personal coding style and problem-solving abilities.
 Do your best to write clean, maintainable code.
 
+**Submission Workflow:**
+
+- Please fork this repository, make your changes in your fork, and submit a pull request (PR) back to this project when you are finished.
+
 **Instructions:**
 
 As a developer of our application, you will be asked to design and maintain common UI components in our Next.js application.
 With that in mind, imagine you have been tasked with creating a common grid component that can be used by anyone on the team.
 At a minimum, the common component must display grid data that can be formatted in one of three ways to support both legacy and current API responses (i.e., different data formats may be returned depending on the version or age of the API).
+Your solution should demonstrate the common component consuming and displaying data from all three provided formats.
 If you wish, you may add additional functionality, improvements, or creative touches, but this is entirely optional.
 
 - There is no single correct answer. Solutions can be creative or simple, as long as they meet the requirements.
 - You may use any framework or library you prefer. If you want to use Next.js, see the bootstrapping instructions below.
-- You may add features, improve usability, or keep it minimal and focused.
 - Please include comments or documentation about any non-obvious design decisions.
 - The goal is to demonstrate your approach to problem-solving, code quality, and communication.
-
-**Advanced (Optional) Challenges:**
 
 ## Next.js Bootstrapping Instructions
 
